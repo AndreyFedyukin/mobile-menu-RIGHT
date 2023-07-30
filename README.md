@@ -1,6 +1,6 @@
 # mobile-menu-RIGHT
 
-##### Ссылка на макет https://andreyfedyukin.github.io/
+##### Ссылка на макет https://andreyfedyukin.github.io/mobile-menu-RIGHT/
 
 ---
 
